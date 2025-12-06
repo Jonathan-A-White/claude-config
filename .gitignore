@@ -1,0 +1,21 @@
+# Credentials and sensitive data
+.credentials.json
+*.pem
+*.key
+
+# Session-specific data
+history.jsonl
+settings.json
+
+# Runtime directories
+debug/
+file-history/
+plans/
+projects/
+session-env/
+shell-snapshots/
+statsig/
+todos/
+
+# Downloads
+downloads/
