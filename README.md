@@ -35,3 +35,7 @@ Specialized agents for targeted research:
 ## Usage
 
 Clone this repo to your `~/.claude` directory or copy individual commands/agents as needed.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
